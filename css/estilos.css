@@ -27,3 +27,26 @@ nav div ol li{
     display:inline-block;
 
 }
+a:link {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(146, 9, 32);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:hover {
+    color: rgb(0, 195, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:active {
+    color: rgb(255, 174, 0);
+    background-color: transparent;
+    text-decoration: underline;
+  }
