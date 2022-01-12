@@ -1,0 +1,15 @@
+html{
+    background-color: rgb(221, 230, 233);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-weight: bold;
+    color:#4b4a4a;
+    text-align: center;
+    border-top: 20px;
+}
+p{
+    color:rgb(53, 53, 6);
+    text-align: left;
+    margin-left: 2em;
+}
