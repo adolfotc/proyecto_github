@@ -3,13 +3,27 @@ html{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h1{
+    position: relative;
     font-weight: bold;
     color:#4b4a4a;
     text-align: center;
-    border-top: 20px;
+    border-top: 60px;
 }
 p{
+    position:relative;
     color:rgb(53, 53, 6);
     text-align: left;
     margin-left: 2em;
+}
+nav div{
+    float: right;
+    padding: 3px;
+    background-color: rgb(2, 25, 32);
+}
+li{
+color: #fff;
+}
+nav div ol li{
+    display:inline-block;
+
 }
